@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "HJ5i0s4EfUe6a93M1oemr9vSfkI=",
+			"path": "github.com/agrison/go-tablib",
+			"revision": "4930582c22eec7bfc0e5b47e0246d5048a78fe49",
+			"revisionTime": "2016-03-10T14:30:25Z"
+		}
+	],
+	"rootPath": "baseball-savant-go"
+}
